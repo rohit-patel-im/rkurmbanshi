@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **React, Php, WordPress, CodeIgniter**
+- 💬 Ask me about **React, Redux, Formik, HTML. CSS, JavaScript, Node Js Php, WordPress, CodeIgniter**
 
 - 📫 How to reach me **rkurmbanshi@gmail.com**
 
